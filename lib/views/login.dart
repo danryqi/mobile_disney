@@ -280,7 +280,7 @@ class _LoginViewState extends State<LoginView> {
                     ),
                     const SizedBox(height: 6),
                     const Text(
-                      '3D World Login',
+                      'Enchanted Login',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: deepContrast, // Teks gelap

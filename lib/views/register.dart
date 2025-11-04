@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import '../controllers/auth_controller.dart';
 
-// ------------------------------------------------------------------
-// PALET WARNA BARU (Soft Pastel untuk 3D World)
-// ------------------------------------------------------------------
 const Color softLavender = Color(0xFFE0BBE4);
 const Color palePink = Color(0xFFFFD1DC);
 const Color softBlue = Color.fromARGB(255, 113, 196, 255);
@@ -260,7 +257,7 @@ class _RegisterViewState extends State<RegisterView> {
                     ),
                     const SizedBox(height: 8),
                     const Text(
-                      '3D World Sign Up',
+                      'Enchanted Sign Up',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: deepContrast,

@@ -95,7 +95,7 @@ class LandingView extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    "Jelajahi Dunia\n3D yang Lembut!",
+                    "Jelajahi Dunia\nDisney yang Menarik!",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: deepContrast, // Menggunakan warna kontras gelap

@@ -23,7 +23,7 @@ class ProfileView extends StatelessWidget {
   void _logout(BuildContext context) async {
     await authController.logout();
     if (context.mounted) {
-      Navigator.pushReplacementNamed(context, '/');
+      Navigator.pushReplacementNamed(context, '/login');
     }
   }
 
